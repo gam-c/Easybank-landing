@@ -474,7 +474,7 @@ button:hover::before,
   transition: all 150ms ease-in-out;
 }
 .article__item:hover {
-  transform: scale(1.05);
+  /* transform: scale(1.05); */
 }
 .article__image {
   height: 12.5rem;
